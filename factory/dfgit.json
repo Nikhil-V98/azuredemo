@@ -1,0 +1,9 @@
+{
+	"name": "dfgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c83d506-ec79-404e-a087-c3f93543da4e",
+		"tenantId": "be4e63fe-a7ec-4bc5-a80f-e06363dd37b3"
+	}
+}
